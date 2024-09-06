@@ -8,7 +8,7 @@
    - `182_PM_Peak_speeds.geojson`
    - `182_AM_Peak_speeds.geojson`
 
-[source](https://rt--cal-itp-data-analyses.netlify.app/district_07-los-angeles/20__speedmaps__district_07-los-angeles__itp_id_182)
+[source](https://rt--cal-itp-data-analyses.netlify.app/district_07-los-angeles/18__speedmaps__district_07-los-angeles__itp_id_182)
 
 2. Ridership Data:
    - `ridership.json`
