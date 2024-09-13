@@ -1,4 +1,4 @@
-# Bus Route Performance Analysis
+# Bus Route Performance Analysis - WIP
 
 ## Data Sources
 
@@ -40,6 +40,10 @@ To generate stop level ridership for each bus route, we approximate using the fo
  - Use the stop-level boardings and add those boardings to the line at each stop in sequence
    - For stops with multiple lines serving, distribute boardings based on the proportion of overall line ridership
  - Iterate through the stops for each line in sequence, adding the boardings for the corresponding line and, using the average length of journey on that line, remove the riders that have been on the line for that length
+
+### Segment Consolidation
+
+We are investigating ways to consolidate segments of the bus network that share geography, condsidering how and when to merge the segments. This work is very WIP and in the notebook you'll see some in progress work on investigating how to recalculate segment length after merging.
 
 ## Output
 
