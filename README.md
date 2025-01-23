@@ -19,6 +19,8 @@ Depending on your choice of means to run jupyter notebooks locally, you'll need 
 2. Ridership Input: Segment-level boardings and de-boardings
    - `bus_ridership.csv`
 
+Note: Data sources are compressed when the repo is cloned, and should be unpacked before running the notebook.
+
 ## Overview
 
 This project analyzes bus route performance in terms of speed and passenger time lost. It combines speed data from different times of day representing the bus service periods (Early AM, AM peak, midday, PM peak, Evening, and Owl) with ridership information to calculate metrics such as:
