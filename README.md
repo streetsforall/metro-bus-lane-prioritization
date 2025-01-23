@@ -12,11 +12,10 @@ Depending on your choice of means to run jupyter notebooks locally, you'll need 
 
 ## Data Sources (stored in the data/ directory)
 
-1. Bus Speed Data
+1. Bus Speed Data ([source](https://rt--cal-itp-data-analyses.netlify.app/district_07-los-angeles/18__speedmaps__district_07-los-angeles__itp_id_182)
+)
    - `182_Midday_speeds.geojson`
    - `metro_lines.geojson`
-
-[source](https://rt--cal-itp-data-analyses.netlify.app/district_07-los-angeles/18__speedmaps__district_07-los-angeles__itp_id_182)
 
 2. Ridership Input: Segment-level boardings and de-boardings
    - `bus_ridership.csv`
