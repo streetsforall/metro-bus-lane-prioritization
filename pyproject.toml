@@ -1,0 +1,21 @@
+[project]
+name = "bus-segments"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Joey Shoyer",email = "jshoyer@umich.edu"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "shapely (>=2.0.6,<3.0.0)",
+    "folium (>=0.19.4,<0.20.0)",
+    "scipy (>=1.15.1,<2.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "geopandas (>=1.0.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
