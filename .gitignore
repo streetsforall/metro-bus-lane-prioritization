@@ -1,2 +1,9 @@
 /.ipynb_checkpoints
 .DS_Store
+
+data/182_Midday_speeds.geojson
+data/bus_ridership.csv
+data/metro_lines.geojson
+
+bus_segments_calculated_ridership.geojson
+combined_routes.geojson
